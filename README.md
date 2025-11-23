@@ -16,4 +16,4 @@ Welcome to my solution for the Results Summary Component challenge! This project
 * Git & GitHub
 
 ## Live-Link 🔗
-[Click here to view the Live Website]()
+[Click here to view the Live Website](https://zainijaz166.github.io/results-summary-component-main/)
